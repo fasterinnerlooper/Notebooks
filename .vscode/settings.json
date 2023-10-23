@@ -1,0 +1,7 @@
+{
+  "cSpell.words": [
+    "langchain",
+    "Ollama"
+  ],
+  "python.analysis.autoImportCompletions": true
+}
