@@ -5,3 +5,4 @@ This repo serves as a Cookbook for different types of interactions with LLMS.
 
 Currently, the repo contains Notebooks on:
 * Chain of Verification (OpenAI and Ollama)
+* Code Completion (C# example with sample code from the XUnit GitHub repo)
